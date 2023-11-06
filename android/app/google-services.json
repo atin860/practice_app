@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989284264435",
+    "project_id": "toto-atin",
+    "storage_bucket": "toto-atin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989284264435:android:bcd9858907a0a059628a86",
+        "android_client_info": {
+          "package_name": "com.example.practice_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocjqzbjADaO4ZJRgqnZRnLKhYrfeFed0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989284264435:android:0e64a029105e4d52628a86",
+        "android_client_info": {
+          "package_name": "com.todoatin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocjqzbjADaO4ZJRgqnZRnLKhYrfeFed0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
